@@ -1,0 +1,78 @@
+nav.bg-light {
+    background-color: #563d7c!important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(255,255,255,0.55);
+}
+.navbar-light .navbar-nav .active .nav-link
+{
+    color: rgba(255,255,255, 1);
+}
+.navbar-light .navbar-nav .nav-link:hover
+{
+    color: rgba(255,255,255, 1);
+}
+.texto {
+  padding: 5rem 0 5rem 0;
+}
+.texto h1{
+  font-size: 4rem;
+  color: #7952b3
+}
+.texto p {
+  font-size: 1.25rem;
+  padding-bottom: 1rem;
+}
+.botones .btn {
+  font-size: 1.25rem;
+
+}
+.btn-outline-info {
+    color: #7952b3;
+    border-color: #7952b3;
+}
+.btn-outline-info:hover {
+    color: #fff;
+    background-color: #7952b3;
+    border-color: #7952b3;
+}
+.currently {
+  color: #6c757d;
+
+}
+.promocion {
+  background-color: rgba(0,0,0,.05);
+  max-width: 350px;
+  padding: 5px;
+}
+.fotoslack {
+  width: 130px;
+  height: 100px;
+}
+.promocion .promo {
+  font-size: .8rem;
+  padding-bottom: 0;
+}
+.promocion .ads {
+  color: #6c757d;
+  font-size: .8rem;
+}
+.middle .bg-light {
+    background-color: #dee2e6;
+}
+.no-bullet {
+  list-style: none;
+  font-size: .85rem;
+
+}
+footer{
+  background-color: #f8f9fa
+}
+footer a{
+    color: #464646;
+}
+footer p{
+  font-size: .8rem;
+  color: #6c757d;
+
+}
